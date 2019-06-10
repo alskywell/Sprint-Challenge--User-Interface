@@ -26,6 +26,8 @@ In meeting the minimum viable product (MVP) specifications listed below, your we
 
 [Click here for the about page example](https://tk-assets.lambdaschool.com/ede1bb1a-63ff-4801-8c02-3efa2f603190_sprint-challenge-ui-about-example.png)
 
+
+
 ## Self-Study Questions
 
 Demonstrate your understanding of this week's concepts by answering the following free-form questions.
@@ -34,13 +36,24 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is like the grammar of coding. It oraganizes all the elements of your project in a logical and meaningful way which should be easy to read.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Display Block treats each element as it's own block. Therefore, it will place each item on it's own separate line. Display inline places items next to each other on the same line until there's no more room on the line. 
 
 3. What are the 4 areas of the box model?
 
+Content, padding, border, and margin.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+The vertical axis.
+
+
 5. Explain why git is valuable to a team of developers.
+
+Git is valuable because it allows multiple people to work on the same project in an organized and efficient manner. It keeps track of changes through time and allows you to revert back to a prior version if needed. It also allows supervisors to review your work prior to making changes to the master branch.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
